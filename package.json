@@ -1,0 +1,16 @@
+{
+  "name": "content-store",
+  "version": "0.0.1",
+  "description": "REST api for applications with custom content/settings",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Szaniszlo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.2"
+  }
+}
